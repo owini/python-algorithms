@@ -415,6 +415,10 @@ If you want to uninstall algorithms, it is as simple as:
         - [simplify_path](algorithms/unix/path/simplify_path.py)
 - [unionfind](algorithms/unionfind)
     - [count_islands](algorithms/unionfind/count_islands.py)
+    
+# Python Algorithms for Trading    
+- [Finance Algorithms in Python](https://github.com/owini/quant-trading)
+- [Python Arbitrage Examples](https://github.com/owini/python-arbitrage-examples)
 
 
 ## Contributors
