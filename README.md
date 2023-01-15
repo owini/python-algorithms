@@ -9,6 +9,7 @@ Pythonic Data Structures and Algorithms
 =========================================
 
 Minimal and clean example implementations of data structures and algorithms in Python 3.
+For more Python resources, you can check out Python Frameworks [here](https://github.com/owini/top-python-frameworks).
 
 ## Contributing
 Thanks for your interest in contributing! There are many ways to contribute to this project. [Get started here](CONTRIBUTING.md)
