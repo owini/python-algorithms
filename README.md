@@ -416,7 +416,7 @@ If you want to uninstall algorithms, it is as simple as:
 - [unionfind](algorithms/unionfind)
     - [count_islands](algorithms/unionfind/count_islands.py)
     
-# Python Algorithms for Trading    
+## Python Algorithms for Trading    
 - [Quant Trading Algorithms in Python](https://github.com/owini/quant-trading)
 - [Python Arbitrage Examples](https://github.com/owini/python-arbitrage-examples)
 
